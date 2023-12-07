@@ -2,9 +2,8 @@
 
 a fork of crhodes' fork of danb's fork of the CLX library, an X11 client for Common Lisp
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/sharplispers/clx.git   |
-| commit  | 610f23f  |
-| systems | clx |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------------|
+| source  | git:https://github.com/sharplispers/clx.git |
+| commit  | 6d54c1c                                     |
+| systems | clx                                         |
+|---------+---------------------------------------------|
