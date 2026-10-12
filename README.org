@@ -4,7 +4,7 @@ a fork of crhodes' fork of danb's fork of the CLX library, an X11 client for Com
 
 |---------+---------------------------------------------|
 | source  | git:https://github.com/sharplispers/clx.git |
-| commit  | 553b83b                                     |
+| commit  | 7512924                                     |
 | systems | clx                                         |
 |---------+---------------------------------------------|
  
